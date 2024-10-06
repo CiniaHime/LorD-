@@ -24,6 +24,7 @@
         "What is your favorite kind of sex? Slow & Sensual or Fast & Feisty?"
         "What song would you play during sex?"
         "How long have you masturbated for in one sitting?"
+        "Would you rather have unlimited video games but no bacon, or no video games and unlimited video games?"
         
 
     ],
@@ -49,5 +50,6 @@
         "Pick 2 players to play with you! They have full control over you until its your turn again."
         "Take a dare from <range[1-5]> people in the room"
         "Make out with a deskie, if none are present then take a dare from <player>"
+        "<local> has now become FREE USE for the rest of the game!"
     ]
 }
