@@ -7,7 +7,7 @@
         "What is your most bizzare fantasy?",
         "What is your opinion of <player>?",
         "Would you have a ERP session with a number of <range[1-10]> people?",
-        "Tell <player> <range[1-10]> kinks that you have.",
+        "Tell someone <range[1-10]> kinks that you have.",
         "<local>, who do you like here the most?",
         "If you could do anything to <player>, what would it be?",
         "Who in the room would you let top you?",
@@ -31,7 +31,7 @@
         "Mute yourself until next turn.",
         "Sit on <player>'s lap, dick inside you.",
         "Tease the person to your right.",
-        "Let <player> slap any place you choose <range[1-5]> times.",
+        "Let the person you choose slap any place you choose <range[1-5]> times.",
         "Blow/Eat a player of your choosing until they cum.",
         "Play with yourself for an entire round.",
         "Edge yourself for as long as the group decides.",
@@ -49,6 +49,6 @@
         "Pick 2 players to play with you! They have full control over you until its your turn again.",
         "Take a dare from <range[1-5]> people in the room",
         "Make out with a deskie, if none are present then take a dare from <player>",
-        "<local> has now become FREE USE for the rest of the game!"
+        "<local> has now become FREE USE for the rest of the game! This moves onto the next person who rolls this Dare"
     ]
 }
